@@ -23,14 +23,14 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
-  global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.ownername = 'Rere' // Ganti Jadi Namamu
+  global.owner = ['62895807009474','62895807009474','6285857658461'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '62895807009474' // Owner Utama Istilahnya
+  global.botname = 'Bot Rere' // Ganti Jadi Nama Botmu
+  global.packname = 'Bot Rere' // Sticker Weem
+  global.author = 'Dibuat Oleh Rere' // Sticker Weem
+  global.webme = 'https://betabotz-api.herokuapp.com' // Ganti Sama Web Mu
+  global.linkgroup = 'https://chat.whatsapp.com/CSqakw6x2wRIOWTPL5a6a9' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
@@ -56,14 +56,14 @@
 
   // Edit Sesuai Kemauanmu
   global.mess = {
-  admin: '_Lu Admin? 🤨_',
+  admin: '_kamu bukan admin_',
   botAdmin: '_Bot Bukan Admin 😔_',
-  owner: '_Lu Bukan Owner Gw 😠_',
-  group: '_Khusus Group 😏_',
+  owner: '_Kamu bukan ownerku_',
+  group: '_Khusus Group _',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
   wait: '_Sabar Sedang Di Proses ..._',
-  done: '_Done Ngab 🤗_',
+  done: '_Done Kak_',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
